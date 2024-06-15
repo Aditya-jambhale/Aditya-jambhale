@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Jambhale</h1>
+<h3 align="center">A Curious Student studying technologies</h3>
 
 - 🌱 I’m currently learning **React,Node**
 
