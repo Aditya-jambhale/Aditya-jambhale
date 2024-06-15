@@ -22,4 +22,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya-jambhale&show_icons=true&locale=en&layout=compact" alt="aditya-jambhale" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-jambhale&" alt="aditya-jambhale" /></p>
+
