@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Jambhale</h1>
 
-<img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-jambhale&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-jambhale" /> </p>
 
@@ -8,7 +7,7 @@
 
 - 📫 How to reach me **jambhaleaditya91@gmail.com**
 
-- ⚡ Fun fact **Someone you would love to talk**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
