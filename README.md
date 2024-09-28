@@ -1,7 +1,7 @@
 <!-- Header -->
 <h1 align="center"> 
   <a href="https://aditya-jambhale.github.io/Personal-Portfolio/">
-    <img src="(https://www.canva.com/design/DAGSFnLyV_c/YZSa-hxpSTU-hXXsHLOGhg/edit?utm_content=DAGSFnLyV_c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)" alt="Aditya's Portfolio" width="700px">
+    <img src="" alt="Aditya's Portfolio" width="700px">
   </a> 
 </h1>
 
