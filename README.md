@@ -1,7 +1,7 @@
 <!-- Header -->
 <h1 align="center"> 
   <a href="https://aditya-jambhale.github.io/Personal-Portfolio/">
-    <img src="" alt="Aditya's Portfolio" width="700px">
+    <img src="innovate.png" alt="Aditya's Portfolio" width="700px">
   </a> 
 </h1>
 
