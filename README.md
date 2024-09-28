@@ -1,29 +1,33 @@
-![Galaxy Background](https://wallpaperaccess.com/full/17520.jpg) <!-- Replace this URL with your galaxy image URL -->
-
-# Let's Figure This Out!
+<div align="center">
+  <img src="(https://wallpaperaccess.com/full/17520.jpg)" alt="Galaxy Image" style="width:100%; height:auto; position:relative; z-index:0;">
+  <h1 style="position:absolute; top:50%; left:50%; transform:translate(-50%, -50%); color:white; font-size:3rem;">Let's Figure This Out!</h1>
+</div>
 
 ---
 
-Hi 👋, I'm Aditya Jambhale  
+### Hi 👋, I'm Aditya Jambhale
 A Curious Student studying technologies
 
-🔗 How to reach me: [jambhaleaditya91@gmail.com](mailto:jambhaleaditya91@gmail.com)
-
-Connect with me:  
-[Twitter](https://twitter.com) | [LinkedIn](https://linkedin.com) | [Instagram](https://instagram.com)
-
-Languages and Tools:  
-![HTML](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)  
-![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white)  
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)  
+- 📫 How to reach me **jambhaleaditya91@gmail.com**
 
 ---
 
+### Connect with me:
+
+[<img align="left" alt="twitter | Twitter" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](#)
+[<img align="left" alt="linkedin | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](#)
+[<img align="left" alt="instagram | Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](#)
+
+<br />
+
+### Languages and Tools:
+
+<img align="left" alt="html5" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
+<img align="left" alt="css3" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
+<img align="left" alt="javascript" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
+<img align="left" alt="docker" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />
+<!-- Add more icons as needed -->
+
+<br />
+
+---
