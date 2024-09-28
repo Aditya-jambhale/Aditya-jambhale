@@ -10,12 +10,12 @@
 
 ### About Me
 
-Hi 👋, I'm Aditya Jambhale, a curious student exploring technologies and studying Computer Engineering. My aim is to become a globally competent individual with strong programming and leadership skills to contribute to society.
+Hi 👋, I'm Aditya Jambhale, a curious student exploring technologies and studying Computer Engineering.
 
-- 💻 Skilled in **JavaScript, Python, Java**, and **PHP**.
-- 🚀 Comfortable working with the **MERN stack**, Google Cloud, Docker, MySQL, and Postman.
+- 💻 Skilled in **JavaScript, Python, Java**, and PHP.
+- 🚀 Comfortable working with the **MERN stack**, Google Cloud, MySQL, and Postman.
 - 🌱 Currently learning **competitive programming** and problem-solving.
-- 📊 Keen on **data science, machine learning**, and empirical research.
+- 📊 Keen on **data science, machine learning**.
 - 🤝 Always open to collaborations and contributing to open-source projects.
 
 ### Connect with me:
