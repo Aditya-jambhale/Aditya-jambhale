@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center"> 
-  <a href="https://aditya-jambhale.github.io/Personal-Portfolio/">
+  <a href="https://aditya-jambhale.vercel.app/">
     <img src="innovate.png" alt="Aditya's Portfolio" width="700px">
   </a> 
 </h1>
