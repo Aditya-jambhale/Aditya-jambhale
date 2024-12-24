@@ -8,58 +8,28 @@
 <details>
  <summary>Know more about me!</summary>
 
-### About Me
+## Hi there! 👋
 
-Hi 👋, I'm Aditya Jambhale, a curious student exploring technologies and studying Computer Engineering.
+I'm **Aditya Shankar Jambhale**, a Computer Engineering student at DMCE (2024). I am passionate about backend development and love building efficient systems. Let's connect and create something amazing together!
 
-💻 Skilled in JavaScript, Python, Java.
-🚀 Comfortable working with the MERN stack,MySQL,Postman,and Next.js.
-⚙️ Experienced with Node.js, Express.js, and MongoDB for backend development.
-🌱 Currently learning competitive programming and problem-solving.
-📊 Keen on Machine Learning.
-🤝 Always open to collaborations and contributing to open-source projects.
-### Connect with me:
+## About Me
 
-| <p align="center">
-  <a href="https://www.linkedin.com/in/adityajambhale" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn Logo" width="32" />
-  </a>
-  |
-  <a href="https://www.instagram.com/_.adityeahhh" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="Instagram Logo" width="32" />
-  </a>
-  |
-  <a href="https://github.com/Aditya-jambhale" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub Logo" width="32" />
-  </a>
-  |
-  <a href="https://x.com/AdityaJambhal18" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter Logo" width="32" />
-  </a>
-  |
-  <a href="mailto:jambhaleaditya91@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gmail/gmail-original.svg" alt="Gmail Logo" height="32" />
-  </a>
-</p>|
-| :------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------: |
+Currently based in **Navi-Mumbai**, I am a **Backend Developer** with a strong foundation in computer engineering. I am eager to learn and grow in the field of software development while contributing to exciting projects.
 
-### Tech Stack:
+## Skills & Technologies
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://www.gstatic.com/firebasejs/ui/2.0.0/images/auth/firebase-logo.svg" alt="Firebase" width="40" height="40"/>
-  <img src="https://supabase.com/icons/icon-96x96.png" alt="Supabase" width="40" height="40"/>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=nodejs,react,mongodb,express,java,html,css,git,github,postman,tailwind,vercel,nextjs,supabase,firebase&perline=8)](https://skillicons.dev)
 
+## GitHub Stats
+🔭 **Public Repositories:** 23
 
-</details>
+👥 **Followers:** 23
+
+👤 **Following:** 27
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aditya-jambhale&show_icons=true&hide_title=true&count_private=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-jambhale&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## Connect with Me
+
+<a href="https://www.linkedin.com/in/adityajambhale/" target="_blank" rel="noopener noreferrer"><Icon /> Linkedin</a> | <a href="https://twitter.com/AdityaJambhal18" target="_blank" rel="noopener noreferrer"><Icon /> Twitter</a> | <a href="https://www.instagram.com/_.adityeahhh/" target="_blank" rel="noopener noreferrer"><Icon /> Instagram</a>
