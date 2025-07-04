@@ -10,7 +10,7 @@
 
 ## Hi there! 👋
 
-I'm **Aditya Shankar Jambhale**, a Computer Engineering student at DMCE (2024). I am passionate about backend development and love building efficient systems. Let's connect and create something amazing together!
+I'm **Aditya Shankar Jambhale**, a Computer Engineer. I am passionate about backend development and love building efficient systems. Let's connect and create something amazing together!
 
 ## About Me
 
