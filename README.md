@@ -21,15 +21,16 @@ Currently based in **Navi-Mumbai**, I am a **Backend Developer** with a strong f
 [![My Skills](https://skillicons.dev/icons?i=nodejs,react,mongodb,express,java,html,css,git,github,postman,tailwind,vercel,nextjs,supabase,firebase&perline=8)](https://skillicons.dev)
 
 ## GitHub Stats
-🔭 **Public Repositories:** 23
 
-👥 **Followers:** 23
+- 📂 **Public Repositories:** ![Repos](https://img.shields.io/github/repos/Aditya-jambhale?style=social)
+- 👥 **Followers:** ![Followers](https://img.shields.io/github/followers/Aditya-jambhale?style=social)
+- 👤 **Following:** ![Following](https://img.shields.io/github/following/Aditya-jambhale?style=social)
 
-👤 **Following:** 27
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aditya-jambhale&show_icons=true&hide_title=true&count_private=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aditya-jambhale&show_icons=true&hide_title=true&count_private=true&theme=radical)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-jambhale&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Connect with Me
 
-<a href="https://www.linkedin.com/in/adityajambhale/" target="_blank" rel="noopener noreferrer"><Icon /> Linkedin</a> | <a href="https://twitter.com/AdityaJambhal18" target="_blank" rel="noopener noreferrer"><Icon /> Twitter</a> | <a href="https://www.instagram.com/_.adityeahhh/" target="_blank" rel="noopener noreferrer"><Icon /> Instagram</a>
+<a href="https://www.linkedin.com/in/adityajambhale/" target="_blank" rel="noopener noreferrer">🔗 Linkedin</a> | 
+<a href="https://twitter.com/AdityaJambhal18" target="_blank" rel="noopener noreferrer">🐦 Twitter</a> | 
+<a href="https://www.instagram.com/_.adityeahhh/" target="_blank" rel="noopener noreferrer">📸 Instagram</a>
