@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center"> 
-  <a href="[https://aditya.scrollverse.site/](https://aditya.scrollverse.site/)">
+  <a href="[https://aditya.scrollverse.site](https://aditya.scrollverse.site)">
     <img src="innovate.png" alt="Aditya's Portfolio" width="700px">
   </a> 
 </h1>
