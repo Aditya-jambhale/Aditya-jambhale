@@ -5,9 +5,6 @@
   </a>
 </p>
 
-<h3 align="center">
-Full-Stack Developer • Software Engineer • Backend Developer
-</h3>
 
 <p align="center">
   <a href="https://aditya.scrollverse.site">
