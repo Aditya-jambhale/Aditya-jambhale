@@ -37,7 +37,7 @@ Computer Engineering graduate passionate about building scalable web application
 <h2 align="center">⚒️ Tech Arsenal</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,react,nextjs,nodejs,express,mongodb,firebase,supabase,tailwind,docker,git,github,linux,postman,vercel&perline=9" />
+  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,html,css,react,nextjs,nodejs,express,spring,maven,hibernate,mongodb,mysql,postgres,firebase,supabase,tailwind,bootstrap,docker,git,github,linux,postman,vercel,vite,npm&perline=9" />
 </p>
 
 
