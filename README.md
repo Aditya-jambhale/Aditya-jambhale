@@ -5,8 +5,6 @@
   </a>
 </p>
 
-<h1 align="center">Aditya Jambhale</h1>
-
 <h3 align="center">
 Full-Stack Developer • Software Engineer • Backend Developer
 </h3>
