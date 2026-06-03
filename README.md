@@ -1,82 +1,82 @@
-<!-- Header with animated GIF or custom banner -->
-<h1 align="center">
+<!-- Banner -->
+<p align="center">
   <a href="https://aditya.scrollverse.site">
-    <img src="innovate.png" alt="Aditya's Portfolio" width="700px">
+    <img src="/banner.png" alt="Aditya Jambhale Banner" width="100%" />
   </a>
-</h1>
+</p>
 
-<h3 align="center">🚀 Full-Stack Developer | Backend Developer | Tech Enthusiast</h3>
+<h1 align="center">Aditya Jambhale</h1>
 
----
+<h3 align="center">
+Full-Stack Developer • Software Engineer • Backend Developer
+</h3>
 
-## 👋 About Me
+<p align="center">
+  <a href="https://aditya.scrollverse.site">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000?style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/adityajambhale/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/Aditya_jambhale/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="mailto:aditya.jambhale@outlook.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/_.adityeahhh/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
-Hi! I'm **Aditya Shankar Jambhale**, a passionate **Computer Engineer** and **Backend Developer** based in **Navi-Mumbai**. I specialize in building scalable, efficient systems and love turning ideas into reality through code.
+<h2 align="center"> About Me</h2>
 
-I'm driven by:
-- 🎯 Creating impactful software solutions
-- 💡 Learning cutting-edge technologies
-- 🤝 Contributing to open-source projects
-- 📚 Sharing knowledge with the developer community
+Computer Engineering graduate passionate about building scalable web applications and solving real-world problems.
 
-
-
-## 🛠️ Tech Stack
-
-**Languages & Frameworks:**
-[![My Skills](https://skillicons.dev/icons?i=nodejs,react,nextjs,java,express,html,css&perline=8)](https://skillicons.dev)
-
-**Databases & Tools:**
-[![My Skills](https://skillicons.dev/icons?i=mongodb,firebase,supabase,postman,git,github&perline=8)](https://skillicons.dev)
-
-**Other:**
-[![My Skills](https://skillicons.dev/icons?i=tailwind,vercel,linux,docker&perline=8)](https://skillicons.dev)
-
-
-
-## 📊 GitHub Statistics
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-jambhale&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-| 📊 Repos | 👥 Followers |
-|---|---|
-| 42 Public Repos | Follow Me |
+- 🚀 Software Developer Intern @ AIBI Street
+- ⚡ MERN Stack & Backend Development
+- 🧠 DSA & Problem Solving Enthusiast
+- 🌱 Exploring Cloud, Docker & System Design
 
 
+<h2 align="center">⚒️ Tech Arsenal</h2>
 
-## 💼 Experience & Interests
-
-- **Backend Development:** Building robust APIs and microservices
-- **Full-Stack Development:** End-to-end application development
-- **AI/ML Integration:** Incorporating AI into practical applications
-- **Open Source:** Active contributor to community projects
-- **Cloud & DevOps:** Firebase, Supabase, Vercel deployment
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,react,nextjs,nodejs,express,mongodb,firebase,supabase,tailwind,docker,git,github,linux,postman,vercel&perline=9" />
+</p>
 
 
 
-## 🎓 Always Learning
 
-Currently exploring:
-- 🔐 Advanced backend architecture patterns
-- 🤖 Machine Learning applications
-- ☁️ Cloud technologies and DevOps
-- 📱 Mobile app development (Android)
-- ⛓️ Blockchain technologies
+<!-- LEETCODE -->
 
+<h2 align="center">⚡ LeetCode Journey</h2>
 
+<p align="center">
+  <a href="https://leetcode.com/u/Aditya_jambhale/">
+    <img src="https://leetcard.jacoblin.cool/Aditya_jambhale?theme=dark&font=Nunito&ext=heatmap&border=0&radius=12" />
+  </a>
+</p>
 
-## 📬 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityajambhale/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AdityaJambhal18)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_.adityeahhh/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditya.jambhale@outlook.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=web&logoColor=white)](https://aditya.scrollverse.site)
+<p align="center">
+  <a href="https://leetcode.com/u/Aditya_jambhale/">
+    <img src="https://img.shields.io/badge/View%20Profile-LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</p>
 
 
+## 🚀 Current Focus
 
-<div align="center">
+- Advanced Backend Engineering
+- Distributed Systems
+- Cloud Computing
+- Docker & CI/CD
+- System Design
+- AI-Powered Applications
 
-**⭐ If you find my projects helpful, consider starring them!**
 
-</div>
+<p align="center">
+<i>"First, solve the problem. Then, write the code."</i>
+<br/>
+<b>— John Johnson</b>
+</p>
