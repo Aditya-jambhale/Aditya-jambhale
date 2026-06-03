@@ -36,8 +36,6 @@ I'm driven by:
 
 ## 🎯 Featured Projects
 
-Here are some of my best projects:
-
 ### 🎤 **AI Podcast Clipper**
 Auto-generate video clips from podcasts using AI. Segments podcast content and creates engaging short-form videos.
 - **Tech:** Python, AI/ML, FFmpeg
@@ -67,17 +65,11 @@ Social media content aggregator and trend analyzer - discover trending content a
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-jambhale&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aditya-jambhale&show_icons=true&hide_title=true&count_private=true&theme=radical&include_all_commits=true)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-jambhale&layout=compact&theme=radical&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats)
-
-| 📊 | 📈 |
+| 📊 Repos | 👥 Followers |
 |---|---|
-| ![Public Repos](https://img.shields.io/badge/Public_Repos-42-blue?style=flat-square&logo=github) | ![Followers](https://img.shields.io/badge/Follow_Me-GitHub-brightgreen?style=flat-square&logo=github) |
-
-</div>
+| 42 Public Repos | Follow Me |
 
 ---
 
@@ -104,31 +96,16 @@ Currently exploring:
 
 ## 📬 Let's Connect!
 
-<div align="center">
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityajambhale/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AdityaJambhal18)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_.adityeahhh/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditya.jambhale@outlook.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=web&logoColor=white)](https://aditya.scrollverse.site)
 
-</div>
-
----
-
-## 🌟 Fun Facts
-
-- 💻 I started coding during my college years and haven't stopped since!
-- 🎮 I enjoy gaming and exploring new technologies in my free time
-- 🚀 Passionate about building products that solve real-world problems
-- 📖 Believe in continuous learning and growth
-
 ---
 
 <div align="center">
 
 **⭐ If you find my projects helpful, consider starring them!**
-
-*Last updated: 2026*
 
 </div>
