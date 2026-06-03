@@ -5,7 +5,7 @@
   </a>
 </h1>
 
-<h3 align="center">🚀 Full-Stack Developer | Backend Specialist | Tech Enthusiast</h3>
+<h3 align="center">🚀 Full-Stack Developer | Backend Developer | Tech Enthusiast</h3>
 
 ---
 
@@ -19,7 +19,7 @@ I'm driven by:
 - 🤝 Contributing to open-source projects
 - 📚 Sharing knowledge with the developer community
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -32,36 +32,7 @@ I'm driven by:
 **Other:**
 [![My Skills](https://skillicons.dev/icons?i=tailwind,vercel,linux,docker&perline=8)](https://skillicons.dev)
 
----
 
-## 🎯 Featured Projects
-
-### 🎤 **AI Podcast Clipper**
-Auto-generate video clips from podcasts using AI. Segments podcast content and creates engaging short-form videos.
-- **Tech:** Python, AI/ML, FFmpeg
-- 🔗 [Explore](https://github.com/Aditya-jambhale/ai-podcast-clipper)
-
-### 📅 **EventKonnect**
-A comprehensive event management platform connecting event organizers with attendees.
-- **Tech:** React, Node.js, MongoDB, Express
-- 🔗 [Explore](https://github.com/Aditya-jambhale/EventKonnect)
-
-### 📑 **InsightPDF**
-Intelligent PDF analysis tool that extracts insights and generates summaries from PDFs using AI.
-- **Tech:** React, Node.js, AI/ML
-- 🔗 [Explore](https://github.com/Aditya-jambhale/InsightPDF)
-
-### ⚙️ **WorkSync**
-Team collaboration and project management platform for seamless workflow organization.
-- **Tech:** React, Node.js, MongoDB, Socket.io
-- 🔗 [Explore](https://github.com/Aditya-jambhale/worksync)
-
-### 🎨 **ViralVista**
-Social media content aggregator and trend analyzer - discover trending content across platforms.
-- **Tech:** React, Express, MongoDB
-- 🔗 [Explore](https://github.com/Aditya-jambhale/ViralVista)
-
----
 
 ## 📊 GitHub Statistics
 
@@ -71,7 +42,7 @@ Social media content aggregator and trend analyzer - discover trending content a
 |---|---|
 | 42 Public Repos | Follow Me |
 
----
+
 
 ## 💼 Experience & Interests
 
@@ -81,7 +52,7 @@ Social media content aggregator and trend analyzer - discover trending content a
 - **Open Source:** Active contributor to community projects
 - **Cloud & DevOps:** Firebase, Supabase, Vercel deployment
 
----
+
 
 ## 🎓 Always Learning
 
@@ -92,7 +63,7 @@ Currently exploring:
 - 📱 Mobile app development (Android)
 - ⛓️ Blockchain technologies
 
----
+
 
 ## 📬 Let's Connect!
 
@@ -102,7 +73,7 @@ Currently exploring:
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditya.jambhale@outlook.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=web&logoColor=white)](https://aditya.scrollverse.site)
 
----
+
 
 <div align="center">
 
