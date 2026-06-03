@@ -19,7 +19,7 @@ Full-Stack Developer • Software Engineer • Backend Developer
   <a href="https://leetcode.com/u/Aditya_jambhale/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="mailto:aditya.jambhale@outlook.com">
+  <a href="mailto:jambhaleaditya35@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/_.adityeahhh/">
