@@ -75,7 +75,7 @@ Social media content aggregator and trend analyzer - discover trending content a
 
 | 📊 | 📈 |
 |---|---|
-| ![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Aditya-jambhale&query=public_repos&label=Public%20Repos&logo=github&color=blue&style=flat-square) | ![Followers](https://img.shields.io/github/followers/Aditya-jambhale?style=flat-square&label=Followers&logo=github) |
+| ![Public Repos](https://img.shields.io/badge/Public_Repos-42-blue?style=flat-square&logo=github) | ![Followers](https://img.shields.io/badge/Follow_Me-GitHub-brightgreen?style=flat-square&logo=github) |
 
 </div>
 
